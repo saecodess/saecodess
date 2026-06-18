@@ -4,7 +4,7 @@
      ANIMATED HEADER BANNER
 ═══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Sae.py&fontSize=100&fontColor=ffffff&color=0:06060a,50:1a1a2e,100:06060a&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=55&desc=Discord%20Developer%20%E2%80%A2%20Community%20Architect%20%E2%80%A2%20Bot%20Engineer&descAlignY=75&descSize=16&descColor=9898b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=sae.codes&fontSize=100&fontColor=ffffff&color=0:06060a,50:1a1a2e,100:06060a&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=55&desc=Discord%20Developer%20%E2%80%A2%20Community%20Architect%20%E2%80%A2%20Bot%20Engineer&descAlignY=75&descSize=16&descColor=9898b8" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════
      TYPING BANNER
