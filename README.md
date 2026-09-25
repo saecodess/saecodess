@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Instagram-@sae.codes-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=06070a" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="mailto:darknotfound404@gmail.com">
+  <a href="mailto:saecodes19@gmail.com">
     <img src="https://img.shields.io/badge/Inquiries-darknotfound404-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=06070a" alt="Email"/>
   </a>
   &nbsp;
@@ -423,7 +423,7 @@ status:
     <img src="https://img.shields.io/badge/Contact%20Via%20Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=06070a" alt="Portfolio Form"/>
   </a>
   &nbsp;
-  <a href="mailto:darknotfound404@gmail.com">
+  <a href="mailto:saecodes19@gmail.com">
     <img src="https://img.shields.io/badge/Direct%20Email-darknotfound404-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=06070a" alt="Email"/>
   </a>
   &nbsp;
