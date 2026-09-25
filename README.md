@@ -1,34 +1,38 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════
-     HERO BANNER
+     EXECUTIVE HEADER BANNER
 ═══════════════════════════════════════════════ -->
-<a href="https://github.com/saecodess">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=sae.codes&fontSize=84&fontColor=ffffff&color=0:08090d,45:121324,80:2a1b40,100:08090d&stroke=a78bfa&strokeWidth=1.5&animation=fadeIn&fontAlignY=50&desc=Discord%20Systems%20Architect%20%E2%80%A2%20Full%E2%80%94Stack%20Bot%20Engineer%20%E2%80%A2%20Community%20Builder&descAlignY=72&descSize=15&descColor=c4b5fd" width="100%" alt="Header Banner"/>
+<a href="https://sae.mcforge.in/">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Sae%20Codes&fontSize=80&fontColor=ffffff&color=0:06070a,40:0f172a,75:1e1b4b,100:06070a&stroke=38bdf8&strokeWidth=1.5&animation=fadeIn&fontAlignY=50&desc=Senior%20Backend%20Developer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20AI%20Security%20Engines&descAlignY=72&descSize=15&descColor=94a3b8" width="100%" alt="Sae Codes Header"/>
 </a>
 
-<!-- TYPING BADGE -->
+<!-- DYNAMIC TYPING TERMINAL -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=36&lines=%E2%9C%A6+Engineering+unbreachable+Discord+security+engines;%E2%9C%A6+Creator+of+SynthX+%E2%80%94+AntiNuke+%26+Sentinel+Guard;%E2%9C%A6+Audiophile+audio+streaming+with+Suzume;%E2%9C%A6+4%2B+Years+of+enterprise+Discord+development;%E2%9C%A6+Open+for+custom+commissions+%26+collaborations" alt="Typing SVG" />
+  <a href="https://sae.mcforge.in/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=36&lines=%E2%9C%A6+Architecting+high-throughput+asynchronous+backend+microservices;%E2%9C%A6+Creator+of+SynthX+%E2%80%94+Enterprise+AntiNuke+%26+Sentinel+Security;%E2%9C%A6+Founder+of+MCForge.in+%E2%80%94+3D+Minecraft+Portfolio+Engine;%E2%9C%A6+PostgreSQL+16+%E2%80%A2+Redis+7.0+%E2%80%A2+FastAPI+%E2%80%A2+Linux+VPS+Ops;%E2%9C%A6+Sub-millisecond+audit+stream+evaluations+%26+OAuth2+pipelines" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- SOCIAL & STATUS CAPSULES -->
+<!-- LIVE STATUS CAPSULES -->
 <p align="center">
-  <a href="https://discord.com/users/1157369310411509770">
-    <img src="https://img.shields.io/badge/Discord-sae.py-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0d14" alt="Discord"/>
+  <a href="https://sae.mcforge.in/">
+    <img src="https://img.shields.io/badge/Portfolio-sae.mcforge.in-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=06070a" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/_sae.py">
-    <img src="https://img.shields.io/badge/Instagram-@__sae.py-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0c0d14" alt="Instagram"/>
+  <a href="https://discord.com/users/1157369310411509770">
+    <img src="https://img.shields.io/badge/Discord-@sae.codes-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=06070a" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/sae.codes">
+    <img src="https://img.shields.io/badge/Instagram-@sae.codes-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=06070a" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:darknotfound404@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0d14" alt="Email"/>
+    <img src="https://img.shields.io/badge/Inquiries-darknotfound404-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=06070a" alt="Email"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=saecodess&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&labelColor=0c0d14" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-64748B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=06070a" alt="Location"/>
 </p>
 
 </div>
@@ -36,27 +40,33 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════
-     ABOUT & STATS BENTO SECTION
+     BENTO OVERVIEW & TELEMETRY
 ═══════════════════════════════════════════════ -->
 
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-### ⚡ `~/terminal/about-me`
+### ⚡ `~/architecture/profile-matrix`
 
 ```yaml
-identity:
-  name         : Sae (sae.py)
-  studio       : SynthX Development™
-  specialty    : AntiNuke Engines & High-Concurrency Discord Bots
-  experience   : 4+ Years Systems Architecture
+engineer:
+  name          : Sae Codes
+  designation   : Senior Backend Developer & Systems Architect
+  location      : Karnataka, India
+  experience    : 4+ Years Systems Engineering
+  production_sla: 99.99% Reliability Target
 
-active_deployments:
-  - project    : SynthX (Defense & Sentinel Guard)
-  - project    : Suzume (High-Fidelity Lavalink Audio)
-  - project    : CherryCraft (Minecraft SMP Automation Suite)
+core_initiatives:
+  - title       : SynthX Development (Security Platforms)
+  - title       : MCForge.in (Creator Profile Platform)
+  - title       : RiftBron Studio (Lead Developer)
+
+specialization:
+  - Low-Latency Asynchronous Event Loops
+  - AntiNuke Audit Streams (< 0.8ms Evaluation)
+  - PostgreSQL Relational Pools & Redis Pub/Sub
+  - OAuth2 Authentication & Full-Stack Dashboards
 
 status:
-  availability : Open for High-Impact Commissions ✦
-  reach        : darknotfound404@gmail.com
+  availability  : Open for Technical Engineering & Consultations
