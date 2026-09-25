@@ -29,7 +29,7 @@
   </a>
   &nbsp;
   <a href="mailto:saecodes19@gmail.com">
-    <img src="https://img.shields.io/badge/Inquiries-darknotfound404-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=06070a" alt="Email"/>
+    <img src="https://img.shields.io/badge/Inquiries-saecodes19-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=06070a" alt="Email"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-64748B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=06070a" alt="Location"/>
@@ -424,7 +424,7 @@ status:
   </a>
   &nbsp;
   <a href="mailto:saecodes19@gmail.com">
-    <img src="https://img.shields.io/badge/Direct%20Email-darknotfound404-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=06070a" alt="Email"/>
+    <img src="https://img.shields.io/badge/Direct%20Email-saecodes19-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=06070a" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://discord.com/users/1157369310411509770">
