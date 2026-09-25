@@ -86,13 +86,13 @@ status:
 ### 📊 `~/telemetry/system-metrics`
 
 <a href="https://github.com/saecodess">
-  <img src="https://github-readme-stats.vercel.app/api?username=saecodess&show_icons=true&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&icon_color=22c55e&border_color=1e293b&bg_color=090d16&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" width="100%" alt="GitHub Metrics"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saecodess&show_icons=true&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&icon_color=22c55e&border_color=1e293b&bg_color=090d16&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" width="100%" alt="GitHub Metrics"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/saecodess">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saecodess&theme=tokyonight&hide_border=false&border=1e293b&background=090d16&ring=38bdf8&fire=22c55e&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=38bdf8&stroke=1e293b&border_radius=10" width="100%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=saecodess&theme=tokyonight&hide_border=false&border=1e293b&background=090d16&ring=38bdf8&fire=22c55e&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=38bdf8&stroke=1e293b&border_radius=10" width="100%" alt="GitHub Streak"/>
 </a>
 
 </td>
@@ -363,13 +363,14 @@ status:
 ### 📈 `~/activity/contribution-telemetry`
 
 <a href="https://github.com/saecodess">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saecodess&bg_color=090d16&color=38bdf8&line=0ea5e9&point=22c55e&area=true&area_color=0f172a&border_color=1e293b&hide_border=false&custom_title=Engineering+Contribution+Telemetry" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saecodess&theme=tokyonight" width="54%" alt="Profile Telemetry"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saecodess&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&bg_color=090d16&langs_count=6&custom_title=Primary+Languages&hide_border=false&border_radius=8" width="44%" alt="Languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/saecodess">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saecodess&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&bg_color=090d16&langs_count=6&custom_title=Primary+Languages&hide_border=false&border_radius=8" width="46%" alt="Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saecodess&theme=tokyonight" width="98%" alt="Repositories per Language Breakdown"/>
 </a>
 
 </div>
@@ -445,13 +446,3 @@ status:
 <div align="center">
   <code>Architected with precision by Sae Codes · All Systems Production-Ready ✦</code>
 </div>
-
-
-specialization:
-  - Low-Latency Asynchronous Event Loops
-  - AntiNuke Audit Streams (< 0.8ms Evaluation)
-  - PostgreSQL Relational Pools & Redis Pub/Sub
-  - OAuth2 Authentication & Full-Stack Dashboards
-
-status:
-  availability  : Open for Technical Engineering & Consultations
